@@ -1,0 +1,16 @@
+*.agdai
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.ptb
+*.out
+*.bbl
+*.blg
+.DS_Store
+*.ibc
+*.xdv
+*.nav
+*.snm
+*.toc
+*.vrb

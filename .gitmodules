@@ -1,0 +1,3 @@
+[submodule "agda-categories"]
+	path = agda-categories
+	url = git@github.com:DreamLinuxer/agda-categories.git

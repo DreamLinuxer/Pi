@@ -1,0 +1,6 @@
+name: Pi
+depend:
+  standard-library
+include:
+  .
+  agda-categories/src/
